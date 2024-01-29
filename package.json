@@ -167,5 +167,21 @@
     "well-known-symbols": "^2.0.0"
   },
   "author": "",
-  "description": ""
+  "description": "",
+  "optionalDependencies": {
+    "@turf-rs/turf-win32-x64-msvc": "0.0.0",
+    "@turf-rs/turf-darwin-x64": "0.0.0",
+    "@turf-rs/turf-linux-x64-gnu": "0.0.0",
+    "@turf-rs/turf-darwin-arm64": "0.0.0",
+    "@turf-rs/turf-android-arm64": "0.0.0",
+    "@turf-rs/turf-linux-arm64-gnu": "0.0.0",
+    "@turf-rs/turf-linux-arm64-musl": "0.0.0",
+    "@turf-rs/turf-win32-arm64-msvc": "0.0.0",
+    "@turf-rs/turf-linux-arm-gnueabihf": "0.0.0",
+    "@turf-rs/turf-linux-x64-musl": "0.0.0",
+    "@turf-rs/turf-freebsd-x64": "0.0.0",
+    "@turf-rs/turf-win32-ia32-msvc": "0.0.0",
+    "@turf-rs/turf-android-arm-eabi": "0.0.0",
+    "@turf-rs/turf-darwin-universal": "0.0.0"
+  }
 }
